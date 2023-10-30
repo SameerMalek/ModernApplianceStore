@@ -1,7 +1,1 @@
-Assignment-1:
-PEER MEMBER:1: Mohammad Sameer Malek
-Remarks: Coded the assignment and involved in coding the logical operations and group meetings equally.
-PEER MEMBER:2: Aryan AshishKumar Amin
-Remarks: Coded the assignment and involved in coding the logical operations and group meetings equally.
-PEER MEMBER:3: Khushi
-Remarks: Coded the assignment and involved in coding the logical operations and group meetings equally.
+
